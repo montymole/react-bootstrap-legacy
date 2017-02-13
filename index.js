@@ -1,1 +1,1 @@
-module.exports=require("./node_modules/react-bootstrap-legacy");
+module.exports=require("./node_modules/react-bootstrap");
